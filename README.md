@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcasare
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently working on my Full CRUD App - An interactive Review App with HTML, CSS, JS, NodeJS and MongoDB
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently working on a Full CRUD MERN-Stack Auth APP
 - 💞️ I’m looking to collaborate on intermediate javascript projects
 - 📫 How to reach me...mail:asarejerry16@gmail.com or twitter: vhybesofficial
 
