@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=313qotpv2uincfrnxnaxxsbtogo4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=313qotpv2uincfrnxnaxxsbtogo4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="250" height="300"/>
 </div>
   
 
