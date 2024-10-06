@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313qotpv2uincfrnxnaxxsbtogo4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313qotpv2uincfrnxnaxxsbtogo4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false](https://spotify-github-profile.kittinanx.com/api/view?uid=313qotpv2uincfrnxnaxxsbtogo4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </div>
   
 
